@@ -1,0 +1,6 @@
+{
+  "name": "Santhe-Connect",
+  "description": "Discover the Soul of Karnataka. Explore local weekly markets (Santhe), authentic food places, homestays, dynamic events, and cultural heritages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
